@@ -30,7 +30,7 @@ The first section of a site, often includes:
 - Every hue has an inherant perceived brightness - luminance
 
 <kbd><img src="./images/hue-brightness-wheel.png"></kbd>
-<img src="./images/hue-luminance-plot.png">
+<kbd><img src="./images/hue-luminance-plot.png"></kbd>
 
 - Normally, when you want to change how light a color looks, you change the lightness value, however this can result in a loss of saturation
   - Because hues have different perceived brightnesses, you can change the brightness of a color by rotating the hue to the nearest bright color
