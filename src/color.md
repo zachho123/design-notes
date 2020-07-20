@@ -2,10 +2,10 @@
 
 ## General
 
+- Approach a project with a constrained/focused pallete
 - Be aware of target demographic, different colors can mean different things to different groups
 - In general, lighter elements feel closer and darker elements feel further away
 - To make something feel inset on a light background, give it an off-white color (be careful not to make it look like a disabled state)
-- Break up sections of webpage by rotating different background colors (ex: white, light gray, dark gray, brand color)
 - Prevent clashing colors ie: background of avatar/headshot images on colored background by adding a white/black border around the image
 
 ## Perceived Brightness
