@@ -7,6 +7,8 @@
 - In general, lighter elements feel closer and darker elements feel further away
 - To make something feel inset on a light background, give it an off-white color (be careful not to make it look like a disabled state)
 - Prevent clashing colors ie: background of avatar/headshot images on colored background by adding a white/black border around the image
+- Grays don't have to be gray, saturate with some color to give a cooler/warmer feel
+- There exists a "rule" that color schemes work best when used proportionately, 60% primary color, 30% secondary color, 10% accent color
 
 ## Perceived Brightness
 
